@@ -16,3 +16,4 @@ The project is built using the following technologies:
 - Python - Programming language used to implement recommendation algorithms
 - Streamlit - Python web framework used to build the web-based interface
 - Natural Language Toolkit (NLTK) - Python library used for natural language processing
+![image](https://github.com/NiketaSengar/Recommendation-System/assets/116871243/521fa4e1-5ca3-401f-9c55-1b178cb8f87b)
